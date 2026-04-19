@@ -1,4 +1,4 @@
-# 🛩️ FAA Wildlife Strike Analysis
+# FAA Wildlife Strike Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12-teal)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-## 📌 Project Overview
+## Project Overview
 
 Analysis of **342,201 real FAA wildlife strike records** spanning 35 years (1990–2025)
 to identify high-risk flight phases, dangerous species, and airport-level risk patterns
@@ -16,7 +16,7 @@ in US aviation safety.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Wildlife strikes pose a serious and growing safety threat to aviation.
 This project analyzes 35 years of FAA strike data to surface actionable
@@ -24,7 +24,7 @@ safety insights for aviation authorities and airport management teams.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 FAA_Wildlife_Strike_Analysis/
@@ -42,45 +42,45 @@ FAA_Wildlife_Strike_Analysis/
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 | # | Insight |
 |---|---------|
-| 1 | 📈 Wildlife strikes grew **281%** from 2000 to 2025 |
-| 2 | 🛫 **APPROACH** phase accounts for 42.5% of all strikes |
-| 3 | 🐦 **Mourning Dove** is the most dangerous identified species (17,888 strikes) |
-| 4 | 🗺️ **Texas** leads all states with 30,658 recorded strikes |
-| 5 | 🌙 Night strikes are fewer but cause disproportionately more damage |
-| 6 | ⚠️ **89 aircraft** completely destroyed by wildlife strikes over 35 years |
+| 1 | Wildlife strikes grew **281%** from 2000 to 2025 |
+| 2 | **APPROACH** phase accounts for 42.5% of all strikes |
+| 3 | **Mourning Dove** is the most dangerous identified species (17,888 strikes) |
+| 4 | **Texas** leads all states with 30,658 recorded strikes |
+| 5 | Night strikes are fewer but cause disproportionately more damage |
+| 6 | **89 aircraft** completely destroyed by wildlife strikes over 35 years |
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
-### 📈 Strikes Per Year (1990–2025)
+### Strikes Per Year (1990–2025)
 ![Yearly Trend](chart1_yearly_trend.png)
 
-### 🛫 Strikes by Phase of Flight
+### Strikes by Phase of Flight
 ![Phase of Flight](chart2_phase_of_flight.png)
 
-### 🐦 Top 10 Wildlife Species
+### Top 10 Wildlife Species
 ![Top Species](chart3_top_species.png)
 
-### 🗺️ Top 10 High-Risk States
+### Top 10 High-Risk States
 ![Top States](chart4_top_states.png)
 
-### ⚠️ Damage Level Distribution
+### Damage Level Distribution
 ![Damage Distribution](chart5_damage_distribution.png?raw=true)
 
-### 🕐 Strikes by Time of Day
+### Strikes by Time of Day
 ![Time of Day](chart6_time_of_day.png)
 
-### 🗓️ Monthly Strike Heatmap (2015–2025)
+### Monthly Strike Heatmap (2015–2025)
 ![Monthly Heatmap](chart7_monthly_heatmap.png)
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 **1. Focus wildlife deterrence during Approach & Landing phases**
 - Over 75% of strikes happen at low altitude during takeoff/landing
@@ -97,7 +97,7 @@ FAA_Wildlife_Strike_Analysis/
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This analysis of **342,201 FAA wildlife strike records** from 1990–2025 reveals
 that wildlife strikes are a growing aviation safety concern.
@@ -114,7 +114,7 @@ can significantly improve aviation safety outcomes.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -127,7 +127,7 @@ can significantly improve aviation safety outcomes.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # 1. Clone the repository
@@ -142,7 +142,7 @@ jupyter notebook FAA_Wildlife_Strike_Analysis.ipynb
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Arein Jain**
 
