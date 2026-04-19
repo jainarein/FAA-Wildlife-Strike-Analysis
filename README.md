@@ -70,7 +70,7 @@ FAA_Wildlife_Strike_Analysis/
 ![Top States](chart4_top_states.png)
 
 ### ⚠️ Damage Level Distribution
-![Damage Distribution](chart5_damage_distribution.png)
+![Damage Distribution](chart5_damage_distribution.png?raw=true)
 
 ### 🕐 Strikes by Time of Day
 ![Time of Day](chart6_time_of_day.png)
