@@ -131,7 +131,7 @@ can significantly improve aviation safety outcomes.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YourUsername/FAA-Wildlife-Strike-Analysis.git
+git clone https://github.com/jainarein/FAA-Wildlife-Strike-Analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn plotly openpyxl
@@ -146,8 +146,8 @@ jupyter notebook FAA_Wildlife_Strike_Analysis.ipynb
 
 **Arein Jain**
 
-[![GitHub](https://img.shields.io/badge/GitHub-AreinJain-black?logo=github)](https://github.com/AreinJain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-AreinJain-black?logo=github)](https://github.com/jainarein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/arein-jain)
 
 ---
 
